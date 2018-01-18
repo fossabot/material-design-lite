@@ -5,6 +5,7 @@
 [![Bower version](https://badge.fury.io/bo/material-design-lite.svg)](https://badge.fury.io/bo/material-design-lite)
 [![Gitter version](https://img.shields.io/gitter/room/gitterHQ/gitter.svg)](https://gitter.im/google/material-design-lite)
 [![Dependency Status](https://david-dm.org/google/material-design-lite.svg)](https://david-dm.org/google/material-design-lite)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fmaterial-design-lite.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fmaterial-design-lite?ref=badge_shield)
 
 > An implementation of [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 components in vanilla CSS, JS, and HTML.
@@ -87,3 +88,6 @@ However, we would absolutely love to have people testing MCW and provide feedbac
 © Google, 2015. Licensed under an
 [Apache-2](https://github.com/google/material-design-lite/blob/master/LICENSE)
 license.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fmaterial-design-lite.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fmaterial-design-lite?ref=badge_large)
